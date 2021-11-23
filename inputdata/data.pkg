@@ -1,0 +1,10 @@
+# Packages
+ &PACKAGES
+ useSEAICE      = .TRUE.,
+ useKPP         = .TRUE.,
+ useDiagnostics = .TRUE.,
+ useEXF         = .TRUE.,
+ useMNC         = .FALSE.,
+ useSALT_PLUME  = .FALSE.,
+ useDOWN_SLOPE  = .FALSE.,
+ &
